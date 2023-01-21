@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+.dimension{
+  height: 50%;
+  width:100%;
+  background-color: rgb(198, 201, 202);
+  margin: 0%;
+  display: grid;
+  align-items: center;
+  font-size: xx-large;
+  font-weight: 200;
+
+}
+.card{
+  height: 25rem;
+  width: 18rem;
+  text-align: center;
+  align-items: center;
+  margin: 10px;
+}
+.btn:hover{
+  background-color:black;
+  color: white;
+}
+.btn{
+  background-color: white;
+  color:black;
+  border-color: black;
+  
+}
